@@ -1,1 +1,1 @@
-# Arabic-Text-Summarization-Application-using-PyQT
+# Arabic Text Summarization using Transformers, and PyQt5
